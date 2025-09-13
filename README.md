@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on React JS **Nutri Connect**
 
-- 🌱 I’m currently learning **React-Dom , Machine Learning , DSA**
+- 🌱 I’m currently learning **React-Dom , Machine Learning , Data Science , DSA**
 
 - 📫 How to reach me **sakethrupa123@gmail.com**
 
